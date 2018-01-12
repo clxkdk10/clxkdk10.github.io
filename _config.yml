@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             clxkdk10@naver.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/assets/vendor/startbootstrap-clean-blog-jekyll"
+baseurl:           "/assets/vendor/startbootstrap-clean-blog"
 url:               "http://clxkdk10.github.io"
 
 # Social Profiles

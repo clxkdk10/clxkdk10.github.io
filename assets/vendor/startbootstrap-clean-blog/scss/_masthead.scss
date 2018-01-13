@@ -20,17 +20,17 @@ header.masthead {
   .page-heading,
   .post-heading,
   .site-heading {
-    padding: 50px 0 150px;
+    padding: 100px 0 150px;
     color: white;
     @media only screen and (min-width: 768px) {
-      padding: 50px 0;
+      padding: 100px 0;
     }
   }
   .page-heading,
   .site-heading {
     text-align: center;
     h1 {
-      font-size: 15px;
+      font-size: 20px;
       margin-top: 0;
     }
     .subheading {
@@ -43,13 +43,13 @@ header.masthead {
     }
     @media only screen and (min-width: 768px) {
       h1 {
-        font-size: 50px;
+        font-size: 80px;
       }
     }
   }
   .post-heading {
-    h3 {
-      font-size: 25px;
+    h1 {
+      font-size: 35px;
     }
     .meta,
     .subheading {
@@ -57,13 +57,13 @@ header.masthead {
       display: block;
     }
     .subheading {
-      font-size: 20px;
+      font-size: 24px;
       font-weight: 600;
       margin: 10px 0 30px;
       @include sans-serif-font;
     }
     .meta {
-      font-size: 15x;
+      font-size: 20px;
       font-weight: 300;
       font-style: italic;
       @include serif-font;
@@ -72,11 +72,11 @@ header.masthead {
       }
     }
     @media only screen and (min-width: 768px) {
-      h3 {
-        font-size: 35px;
+      h1 {
+        font-size: 55px;
       }
       .subheading {
-        font-size: 15px;
+        font-size: 30px;
       }
     }
   }
